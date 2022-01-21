@@ -1,4 +1,4 @@
-Hi, this is Conexperto 👋
+Hi, this is ConeXperto 👋
 ====================
 ![Profile Image](https://github.com/Conexperto/.github/blob/main/assets/main.png)
 
